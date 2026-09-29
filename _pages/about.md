@@ -23,7 +23,7 @@ My research interests include Computer Graphics/Vision, Face Modeling, Digital H
 
 **Michigan State University**  
 Ph.D. in Computer Science and Engineering  
-Advisor: Professor Yiying Tong
+Advisor: Prof. Yiying Tong
 
 ## Work Experience
 
