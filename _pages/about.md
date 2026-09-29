@@ -22,15 +22,15 @@ My research interests include Computer Graphics/Vision, Face Modeling, Digital H
 ## Education
 
 **Michigan State University** (Aug. 2023 – Present)  
-Ph.D. in Computer Science  
+Ph.D. in Computer Science <img src="{{ '/images/education/msu.jpg' | relative_url }}" alt="Michigan State University logo" width="44" height="36" style="display: inline-block; width: 44px; height: 36px; object-fit: contain; vertical-align: middle; margin: 0 0 0 0.5rem; padding: 3px; background: #fff; border-radius: 3px; box-sizing: border-box;" />  
 Advisor: Prof. Yiying Tong
 
 **Chung-Ang University** (Sep. 2020 – Jun. 2022)  
-M.E. in AI Application  
+M.E. in AI Application <img src="{{ '/images/education/cau.png' | relative_url }}" alt="Chung-Ang University logo" width="44" height="36" style="display: inline-block; width: 44px; height: 36px; object-fit: contain; vertical-align: middle; margin: 0 0 0 0.5rem; padding: 3px; background: #fff; border-radius: 3px; box-sizing: border-box;" />  
 Advisor: Prof. Youngbin Kim
 
 **Oklahoma State University** (Aug. 2015 – May 2019)  
-B.S. in Computer Science
+B.S. in Computer Science <img src="{{ '/images/education/osu.png' | relative_url }}" alt="Oklahoma State University logo" width="44" height="36" style="display: inline-block; width: 44px; height: 36px; object-fit: contain; vertical-align: middle; margin: 0 0 0 0.5rem; padding: 3px; background: #fff; border-radius: 3px; box-sizing: border-box;" />
 
 ## Work Experience
 
