@@ -13,7 +13,11 @@ My research interests include computer vision, 3D reconstruction, and physically
 
 ## News
 
+<div class="news-scroll" markdown="1" role="region" aria-label="News" tabindex="0" style="max-height: 240px; overflow-y: auto; padding-right: 0.5rem;">
+
 <!-- Add news here. -->
+
+</div>
 
 ## Education
 

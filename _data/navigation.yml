@@ -4,4 +4,4 @@ main:
 
   - title: "CV"
     url: /files/Pilseo_Park_CV.pdf
-    new_tab: true
+    new_tab: false
