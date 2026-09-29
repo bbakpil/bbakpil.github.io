@@ -21,16 +21,20 @@ My research interests include Computer Graphics/Vision, Face Modeling, Digital H
 
 ## Education
 
-**Michigan State University** (Aug. 2023 – Present)  
-Ph.D. in Computer Science <img src="{{ '/images/education/msu.jpg' | relative_url }}" alt="Michigan State University logo" width="44" height="36" style="display: inline-block; width: 44px; height: 36px; object-fit: contain; vertical-align: middle; margin: 0 0 0 0.5rem; padding: 3px; background: #fff; border-radius: 3px; box-sizing: border-box;" />  
-Advisor: Prof. Yiying Tong
+<div class="education-entry" style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1.25rem;">
+  <img src="{{ '/images/education/msu-wordmark.jpg' | relative_url }}" alt="Michigan State University logo" width="96" height="69" style="display: block; flex: 0 0 96px; width: 96px; height: 69px; object-fit: cover; object-position: left; margin: 0; padding: 5px; background: #fff; border-radius: 4px; box-sizing: border-box;" />
+  <div style="min-width: 0;"><strong>Michigan State University</strong> (Aug. 2023 – Present)<br>Ph.D. in Computer Science<br>Advisor: Prof. Yiying Tong</div>
+</div>
 
-**Chung-Ang University** (Sep. 2020 – Jun. 2022)  
-M.E. in AI Application <img src="{{ '/images/education/cau.png' | relative_url }}" alt="Chung-Ang University logo" width="44" height="36" style="display: inline-block; width: 44px; height: 36px; object-fit: contain; vertical-align: middle; margin: 0 0 0 0.5rem; padding: 3px; background: #fff; border-radius: 3px; box-sizing: border-box;" />  
-Advisor: Prof. Youngbin Kim
+<div class="education-entry" style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1.25rem;">
+  <img src="{{ '/images/education/cau.png' | relative_url }}" alt="Chung-Ang University logo" width="96" height="76" style="display: block; flex: 0 0 96px; width: 96px; height: 76px; object-fit: contain; margin: 0; padding: 5px; background: #fff; border-radius: 4px; box-sizing: border-box;" />
+  <div style="min-width: 0;"><strong>Chung-Ang University</strong> (Sep. 2020 – Jun. 2022)<br>M.E. in AI Application<br>Advisor: Prof. Youngbin Kim</div>
+</div>
 
-**Oklahoma State University** (Aug. 2015 – May 2019)  
-B.S. in Computer Science <img src="{{ '/images/education/osu.png' | relative_url }}" alt="Oklahoma State University logo" width="44" height="36" style="display: inline-block; width: 44px; height: 36px; object-fit: contain; vertical-align: middle; margin: 0 0 0 0.5rem; padding: 3px; background: #fff; border-radius: 3px; box-sizing: border-box;" />
+<div class="education-entry" style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1.25rem;">
+  <img src="{{ '/images/education/osu.png' | relative_url }}" alt="Oklahoma State University logo" width="96" height="76" style="display: block; flex: 0 0 96px; width: 96px; height: 76px; object-fit: contain; margin: 0; padding: 5px; background: #fff; border-radius: 4px; box-sizing: border-box;" />
+  <div style="min-width: 0;"><strong>Oklahoma State University</strong> (Aug. 2015 – May 2019)<br>B.S. in Computer Science</div>
+</div>
 
 ## Work Experience
 
