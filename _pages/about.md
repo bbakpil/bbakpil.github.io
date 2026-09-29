@@ -26,7 +26,7 @@ Ph.D. in Computer Science
 Advisor: Prof. Yiying Tong
 
 **Chung-Ang University** (Sep. 2020 – Jun. 2022)  
-M.E. in Artificial Intelligence (AI Application)  
+M.E. in AI Application  
 Advisor: Prof. Youngbin Kim
 
 **Oklahoma State University** (Aug. 2015 – May 2019)  
