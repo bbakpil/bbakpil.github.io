@@ -38,7 +38,8 @@ My research interests include Computer Graphics/Vision, Face Modeling, Digital H
 
 ## Work Experience
 
-<!-- Add work experience here. -->
+**4by4 Inc.** (Aug. 2022 – Jun. 2023)  
+AI Engineer
 
 ## Beyond Research
 
