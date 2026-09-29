@@ -40,10 +40,6 @@ My research interests include Computer Graphics/Vision, Face Modeling, Digital H
 
 <!-- Add work experience here. -->
 
-## Academic Services
-
-<!-- Add academic services here. -->
-
 ## Beyond Research
 
 <!-- Add personal interests here. -->
