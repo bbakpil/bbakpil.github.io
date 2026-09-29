@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a Ph.D. student in the Department of Computer Science and Engineering at Michigan State University, advised by Prof. Yiying Tong.
+Hi, I'm a Ph.D. student in the Department of Computer Science and Engineering at Michigan State University, advised by [Prof. Yiying Tong](https://www.cse.msu.edu/~ytong/).
 
 My research interests include Computer Graphics/Vision, Face Modeling, Digital Human, and Physics Simulation.
 
