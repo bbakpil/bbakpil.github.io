@@ -45,4 +45,4 @@ My research interests include Computer Graphics/Vision, Face Modeling, Digital H
 
 ## Personal Interests
 
-<!-- Add personal interests here. -->
+Football (soccer), running
