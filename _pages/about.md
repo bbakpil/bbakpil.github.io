@@ -15,10 +15,10 @@ My research interests include Computer Graphics/Vision, Face Modeling, Digital H
 
 <div class="news-scroll" markdown="1" role="region" aria-label="News" tabindex="0" style="max-height: 240px; overflow-y: auto; padding-right: 0.5rem;">
 
-[Sep. 2026] One paper accepted to ACCV 2026.  
-[Aug. 2026] One paper accepted to WACV 2027 (Round 1).  
-[Jan. 2026] I passed my Ph.D. qualifying exam.  
-[Aug. 2023] I started my Ph.D. at Michigan State University.
+- [Sep. 2026] One paper accepted to ACCV 2026.
+- [Aug. 2026] One paper accepted to WACV 2027 (Round 1).
+- [Jan. 2026] I passed my Ph.D. qualifying exam.
+- [Aug. 2023] I started my Ph.D. at Michigan State University.
 
 </div>
 
