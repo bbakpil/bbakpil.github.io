@@ -5,4 +5,100 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- Add publications here. Links and images are intentionally unset. -->
+<style>
+  .publications-list .publication-entry {
+    display: grid;
+    grid-template-columns: 180px minmax(0, 1fr);
+    gap: 1.25rem;
+    align-items: start;
+    margin-bottom: 2rem;
+  }
+  .publications-list .publication-teaser { min-height: 110px; }
+  .publications-list .publication-teaser img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  .publications-list .publication-title {
+    margin: 0 0 0.4rem;
+    padding: 0;
+    border: 0;
+    font-size: 1em;
+    font-weight: 700;
+    line-height: 1.45;
+  }
+  .publications-list .publication-authors,
+  .publications-list .publication-venue,
+  .publications-list .publication-links {
+    margin: 0 0 0.35rem;
+    line-height: 1.55;
+  }
+  .publication-note { margin-bottom: 1.5rem; font-size: 0.85em; }
+  @media (max-width: 640px) {
+    .publications-list .publication-entry { grid-template-columns: minmax(0, 1fr); gap: 0.75rem; }
+    .publications-list .publication-teaser { display: none; }
+    .publications-list .publication-teaser:has(img) { display: block; min-height: 0; }
+  }
+</style>
+
+<p class="publication-note">* Equal contribution.</p>
+
+<div class="publications-list">
+  <article class="publication-entry" id="egghead">
+    <div class="publication-teaser">
+      <!-- Teaser image to be added. -->
+    </div>
+    <div class="publication-info">
+      <h2 class="publication-title">EGGHead: Efficient Generalizable Gaussian Heads from a Single Image</h2>
+      <p class="publication-authors"><strong>Pilseo Park*</strong>, Andrew Hou*, Michel Sarkis, Ning Bi, Yiying Tong, and Xiaoming Liu</p>
+      <p class="publication-venue"><em>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2027 (Round 1)</em></p>
+    </div>
+  </article>
+
+  <article class="publication-entry" id="singa">
+    <div class="publication-teaser">
+      <!-- Teaser image to be added. -->
+    </div>
+    <div class="publication-info">
+      <h2 class="publication-title">Learning Semantic Inpainting for Animatable Gaussian Head Avatars</h2>
+      <p class="publication-authors"><strong>Pilseo Park</strong>, Fizza Rubab, and Yiying Tong</p>
+      <p class="publication-venue"><em>Asian Conference on Computer Vision (ACCV), 2026</em></p>
+    </div>
+  </article>
+
+  <article class="publication-entry" id="refined-head">
+    <div class="publication-teaser">
+      <!-- Teaser image to be added. -->
+    </div>
+    <div class="publication-info">
+      <h2 class="publication-title">Refined Geometry-guided Head Avatar Reconstruction from Monocular RGB Video</h2>
+      <p class="publication-authors"><strong>Pilseo Park</strong>, Ze Zhang, Michel Sarkis, Ning Bi, Xiaoming Liu, and Yiying Tong</p>
+      <p class="publication-venue"><em>arXiv, 2025</em></p>
+      <p class="publication-links"><a href="https://arxiv.org/abs/2503.21886">[Paper]</a></p>
+    </div>
+  </article>
+
+  <article class="publication-entry" id="sam">
+    <div class="publication-teaser">
+      <!-- Teaser image to be added. -->
+    </div>
+    <div class="publication-info">
+      <h2 class="publication-title">SAM: Cross-Modal Semantic Alignments Module for Image-Text Retrieval</h2>
+      <p class="publication-authors"><strong>Pilseo Park</strong>, Soojin Jang, Yunsung Cho, and Youngbin Kim</p>
+      <p class="publication-venue"><em>Multimedia Tools and Applications, 2024</em></p>
+      <p class="publication-links"><a href="https://link.springer.com/content/pdf/10.1007/s11042-023-15798-9.pdf">[Paper]</a></p>
+    </div>
+  </article>
+
+  <article class="publication-entry" id="dual-color">
+    <div class="publication-teaser">
+      <!-- Teaser image to be added. -->
+    </div>
+    <div class="publication-info">
+      <h2 class="publication-title">Dual-Color Space Network with Global Priors for Photo Retouching</h2>
+      <p class="publication-authors"><strong>Pilseo Park</strong>, Heungmin Oh, and Hyuncheol Kim</p>
+      <p class="publication-venue"><em>Scientific Reports, 2023</em></p>
+      <p class="publication-links"><a href="https://www.nature.com/articles/s41598-023-47186-6">[Paper]</a></p>
+    </div>
+  </article>
+</div>
