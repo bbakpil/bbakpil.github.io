@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Department of Computer Science and Engineering at Michigan State University, advised by Professor Yiying Tong.
+Hi, I'm a Ph.D. student in the Department of Computer Science and Engineering at Michigan State University, advised by Professor Yiying Tong.
 
-My research interests include computer vision, 3D reconstruction, and physically grounded human-object interaction.
+My research interests include Computer Graphics/Vision, Face Modeling, Digital Human, and Physics Simulation.
 
 ## News
 
