@@ -25,7 +25,7 @@ My research interests include Computer Graphics/Vision, Face Modeling, Digital H
 ## Education
 
 <div class="education-entry" style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1.25rem;">
-  <img src="{{ '/images/education/msu-wordmark.jpg' | relative_url }}" alt="Michigan State University logo" width="96" height="69" style="display: block; flex: 0 0 96px; width: 96px; height: 69px; object-fit: cover; object-position: left; margin: 0; padding: 5px; background: #fff; border-radius: 4px; box-sizing: border-box;" />
+  <img src="{{ '/images/education/msu-stacked.png' | relative_url }}" alt="Michigan State University logo" width="96" height="69" style="display: block; flex: 0 0 96px; width: 96px; height: 69px; object-fit: contain; margin: 0; padding: 5px; background: #fff; border-radius: 4px; box-sizing: border-box;" />
   <div style="min-width: 0;"><strong>Michigan State University</strong> (Aug. 2023 – Present)<br>Ph.D. in Computer Science<br>Advisor: Prof. Yiying Tong</div>
 </div>
 
